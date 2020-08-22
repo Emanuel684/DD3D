@@ -1,0 +1,33 @@
+.dedicoDiv4 {
+  padding: 20px;
+  background-color: rgb(82, 155, 204);
+  color: white;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+.h3Main4 {
+  text-align: center;
+  text-decoration: none;
+}
+.divMain4 {
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imgMain4 {
+  width: 100px;
+  height: 100px;
+}
+.tableMain4 {
+  border: 1px solid black;
+}
+.imgtd {
+  border: 1px solid black;
+}
+.tdTopMain4 {
+  background-color: gainsboro;
+  color: black;
+}

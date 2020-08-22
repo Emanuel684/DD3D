@@ -1,0 +1,28 @@
+.Botones {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  border: 5px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
+.BtnColors {
+  width: 300px;
+  background-color: rgb(136, 77, 136);
+  border-radius: 10px;
+  border: none;
+  font-size: 30px;
+  transition: all 100ms;
+  text-decoration: none;
+  color: rgb(63, 1, 63);
+}
+.BtnColors:hover {
+  background-color: orange;
+  color: black;
+  transition: all 100ms;
+  text-decoration: none;
+}
+.BtnColors:focus{
+  background-color: orange;
+  color: black;
+}

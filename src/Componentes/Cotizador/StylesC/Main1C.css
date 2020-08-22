@@ -1,0 +1,77 @@
+.h4Header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.BtnButon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.FormMain1C {
+  margin-left: 13.5%;
+  width: 50%;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+  padding-top: 20px
+}
+.pCampoText {
+  grid-column: 1 / 2;
+  grid-row: 1;
+}
+.divBoxes {
+  display: grid;
+  grid-template-columns: repeat(2, 2fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100%, auto);
+  
+}
+.DivFatherFather {
+  margin: 50px;
+}
+.ZiseDescripcion {
+  padding-bottom: 150px;
+  border: 3px solid black;
+}
+.Buton {
+  width: 200px;
+  height: 50px;
+  font-size: 25px;
+  background-color: rgb(136, 77, 136);
+  transition: all 100ms;
+  text-decoration: none;
+  color: rgb(63, 1, 63);
+}
+.Buton:hover {
+  background-color: orange;
+  color: black;
+  transition: all 100ms;
+  text-decoration: none;
+}
+.BtnButon {
+  margin: 20px;
+}
+.divBox {
+  margin-left: 20%;
+}
+.DivFatherFather2 {
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+  border: 3px solid black;
+  border-radius: 5px;
+}
+.divDescrip2{
+    font-weight: bold;
+    width: 100%;
+    height: 150px;
+    
+}
+.pCampoText2{
+    font-weight: 900;
+    text-decoration: underline;
+}
+.borderBox{
+  border: 3px solid black;
+}
